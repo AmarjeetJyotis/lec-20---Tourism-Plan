@@ -10,7 +10,7 @@ Project link: https://lec-19-react-counter-app-gzib.vercel.app/
 
 **Plan With Love** is a beautifully designed travel destination suggestion app that helps users explore popular cities in India. Whether you’re planning your next romantic getaway or a solo adventure, this app lets you discover iconic cities, learn about their highlights, and mark places you're not interested in — all with a clean, intuitive interface.
 
-🔗 **Live App**: [Plan With Love on Vercel](https://your-vercel-link.com) <!-- Replace with actual link -->
+🔗 **Live App**: [Plan With Love on Vercel]([https://your-vercel-link.com](https://lec-19-react-counter-app-gzib.vercel.app/) <!-- Replace with actual link -->
 
 ---
 
