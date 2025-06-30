@@ -46,6 +46,23 @@ Project link: https://lec-19-react-counter-app-gzib.vercel.app/
 
 ---
 
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
@@ -71,11 +88,6 @@ Edit
 
 📱 Fully responsive layout adapts to mobile screens.
 
-🧑‍💻 Author
-Amarjeet Kumar
-💼 Final Year CSE Student @ CU'25
-🌐 Linktree
-
 📄 License
 This project is licensed under the MIT License.
 
@@ -83,9 +95,3 @@ This project is licensed under the MIT License.
 Inspiration from travel recommendation apps
 
 Data based on popular tourist cities in India
-
-vbnet
-Copy
-Edit
-
-Let me know if you'd like to add images, deploy a Vercel badge, or turn this into a dynamic React app later.
